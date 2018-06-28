@@ -33,6 +33,7 @@ public class jcTest{
     @Override
     public void finalize() throws Throwable {
         test = this;
+        System.out.println("gitTest");
         System.out.println("我被调用了");
     }
 }
