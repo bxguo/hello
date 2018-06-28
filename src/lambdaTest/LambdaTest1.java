@@ -23,6 +23,7 @@ public class LambdaTest1 {
         //lengths.sort(comparing(Integer::intValue));
         //lengths.sort((i1,i2)-> i1.compareTo(i2));
         //System.out.println(lengths);
+        System.out.println("test");
     }
 
     /**
